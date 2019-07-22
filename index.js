@@ -1,4 +1,4 @@
 //Your code here
-function fn(){
-  return let returnsThisAndArgs
+function justInvoke(fn){
+  return fn();
 }
